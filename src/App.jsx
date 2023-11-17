@@ -146,9 +146,6 @@ function App({}) {
           </div>
         </div>
       </div>
-
-
-      <img src='https://web.facebook.com/photo/?fbid=5710756678980193&set=a.115324445190139' width='90' height='90' />
     </>
   )
 }
