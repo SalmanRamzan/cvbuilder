@@ -148,7 +148,7 @@ function App({}) {
       </div>
 
 
-      <img src='/assets/salmanramzan.jpeg' width='90' height='90' />
+      <img src='https://web.facebook.com/photo/?fbid=5710756678980193&set=a.115324445190139' width='90' height='90' />
     </>
   )
 }
