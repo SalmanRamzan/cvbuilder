@@ -146,6 +146,9 @@ function App({}) {
           </div>
         </div>
       </div>
+
+
+      <img src='/assets/salmanramzan.jpeg' width='90' height='90' />
     </>
   )
 }
