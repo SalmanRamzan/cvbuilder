@@ -2,7 +2,7 @@ import React from 'react'
 
 const Title = ({img, name, job}) => {
 
-  let myImg = '/src/assets/salmanramzan.jpeg', myName = 'Salman Ramzan', myJob = 'Frontend Developer (React)'
+  let myImg = '/assets/salmanramzan.jpeg', myName = 'Salman Ramzan', myJob = 'Frontend Developer (React)'
   return (
      <>
         <center>
