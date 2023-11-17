@@ -6,7 +6,7 @@ const Title = ({img, name, job}) => {
   return (
      <>
         <center>
-          {img || <img src={myImg} width='90' height='90' />}
+          {<img src={myImg} width='90' height='90' />}
           <h1 className='name'>{name || myName}</h1>
           <hr />
           <p className='job'>{job || myJob}</p>
